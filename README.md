@@ -1,5 +1,5 @@
 # Yeni Yıl Projesi - Görkemli Yazılım
-## CSS kısmında pozisyon PX değerleri sizlerde farklı sonuçlar verebilir, eğer görüntü kötüyse kendi ekranınıza göre PX değerlerini ayarlayabilirsiniz. CSS animasyon kısmında tüm PX değerleri.
+## CSS kısmında pozisyon PX değerleri sizlerde farklı sonuçlar verebilir, eğer görüntü kötüyse kendi ekranınıza göre PX değerlerini ayarlayabilirsiniz. CSS animasyon kısmında tüm PX değerleri mevcut.
 
 YouTube videosu için [buraya tıklayın](https://youtu.be/x6v1EgxJzYE)
 
